@@ -1,0 +1,9 @@
+GitLab Task
+
+Software Engineering Lab Quiz 1
+
+Task 
+•	Create Repository
+•	Create Readme file
+•	Upload 1 file
+•	At least one change one push
