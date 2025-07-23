@@ -1,9 +1,14 @@
 GitLab Task
 
-Software Engineering Lab Quiz 1
+Software Engineering Lab task 1
 
 Task 
 •	Create Repository
 •	Create Readme file
 •	Upload 1 file
 •	At least one change one push
+
+Second change
+ Theory Quiz 01
+Date: 27-07-2025,Sunday
+Time: 11.20-12.50
